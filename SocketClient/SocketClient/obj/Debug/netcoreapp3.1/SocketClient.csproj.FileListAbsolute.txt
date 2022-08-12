@@ -1,0 +1,14 @@
+E:\LanitNT\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+E:\LanitNT\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+E:\LanitNT\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+E:\LanitNT\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+E:\LanitNT\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+E:\LanitNT\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.AssemblyReference.cache
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+E:\LanitNT\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache

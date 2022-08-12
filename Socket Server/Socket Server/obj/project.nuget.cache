@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wj1iY9rPHtKqd6A/PmQL2VfOqUhxo+1itEXWOMZrJhC/HdRFlFWVN9BPKzUsbXdRw8ThYlSIvQwn/h1WzzEvbQ==",
+  "success": true,
+  "projectFilePath": "E:\\LanitNT\\Socket\\Socket Server\\Socket Server\\Socket Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
